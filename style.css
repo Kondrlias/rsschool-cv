@@ -135,7 +135,19 @@ p {
   gap: 10px;
 }
 
+/* decoration code */
+
+code {
+  display: inline-block;
+  margin: 30px;
+}
+
 /* decoration exp */
+
+.exp-text {
+  display: flex;
+  align-content: center;
+}
 
 /* decoration edu  */
 
