@@ -102,3 +102,35 @@ p {
 .subtitle {
   font-size: 24px;
 }
+
+/* decoration contacts  */
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+}
+
+.contacts-link {
+  margin: 20px;
+  padding-left: 5px;
+}
+
+.nav-img {
+  height: 25px;
+  width: auto;
+}
+
+/* decoration about  */
+
+/* decoration skills  */
+
+/* decoration exp */
+
+/* decoration edu  */
+
+/* decoration lang   */
+
+/* decoration footer */
+
