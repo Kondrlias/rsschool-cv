@@ -1,0 +1,175 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+:root {
+  --border-color: #d4c6b0;
+}
+
+/* basic layout */
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+section {
+  margin: 20px auto;
+  padding-bottom: 10px;
+  border-bottom: solid 2px gray;
+}
+
+section:last-child {
+  border-bottom: none;
+}
+
+nav {
+  display: flex;
+  align-items: space-between;
+  justify-content: flex-end;
+  background-color: var(--border-color);
+  padding: 10px;
+}
+
+
+footer {
+  background-color: var(--border-color);
+  padding: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+p {
+  font: sans-serif;
+  margin-bottom: 10px;
+}
+
+/* decoration nav */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-link {
+  color: white;
+  margin-right: 10px;
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.foto {
+  height: 150px;
+  width: auto;
+  border-radius: 90rem;
+}
+
+.nav-img {
+  height: 30px;
+  width: auto;
+}
+
+/* decoration head */
+
+.wrapper-head {
+  width: 80%;
+  height: 100px;
+  margin: 50px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: none;
+}
+
+.title {
+  font-size: 48px;
+}
+
+.subtitle {
+  font-size: 24px;
+}
+
+/* decoration contacts  */
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.contacts-link {
+  margin: 20px;
+  padding-left: 5px;
+}
+
+.nav-img {
+  height: 25px;
+  width: auto;
+}
+
+/* decoration about  */
+
+/* decoration skills  */
+
+.skil-list {
+  display: inline;
+}
+
+.skil {
+  display: flex;
+  gap: 10px;
+}
+
+/* decoration code */
+
+code {
+  display: inline-block;
+  margin: 30px;
+}
+
+/* decoration exp */
+
+.exp-text {
+  display: flex;
+  align-content: center;
+}
+
+/* decoration edu  */
+
+.edu-list {
+  margin-left: 20px;
+}
+
+.edu-point {
+  list-style-type: square;
+}
+
+/* decoration lang   */
+
+/* decoration footer */
+
+.footer {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+
+}
+
+.rs-logo {
+  height: 30px;
+  width: auto;
+}
