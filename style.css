@@ -163,3 +163,14 @@ code {
 
 /* decoration footer */
 
+.footer {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+
+}
+
+.rs-logo {
+  height: 30px;
+  width: auto;
+}
