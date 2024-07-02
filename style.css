@@ -151,6 +151,14 @@ code {
 
 /* decoration edu  */
 
+.edu-list {
+  margin-left: 20px;
+}
+
+.edu-point {
+  list-style-type: square;
+}
+
 /* decoration lang   */
 
 /* decoration footer */
