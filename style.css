@@ -126,6 +126,15 @@ p {
 
 /* decoration skills  */
 
+.skil-list {
+  display: inline;
+}
+
+.skil {
+  display: flex;
+  gap: 10px;
+}
+
 /* decoration exp */
 
 /* decoration edu  */
