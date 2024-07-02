@@ -55,3 +55,50 @@ p {
   font: sans-serif;
   margin-bottom: 10px;
 }
+
+/* decoration nav */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-link {
+  color: white;
+  margin-right: 10px;
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.foto {
+  height: 150px;
+  width: auto;
+  border-radius: 90rem;
+}
+
+.nav-img {
+  height: 30px;
+  width: auto;
+}
+
+/* decoration head */
+
+.wrapper-head {
+  width: 80%;
+  height: 100px;
+  margin: 50px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: none;
+}
+
+.title {
+  font-size: 48px;
+}
+
+.subtitle {
+  font-size: 24px;
+}
