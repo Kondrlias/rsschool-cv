@@ -6,9 +6,10 @@ Junior Frontend Developer
 
 - Location: Minsk, Belarus
 - tel: +375-29-969-41-43
-- [Mail]: kondrlias@gmail.com,
+- [Mail](kondrlias@gmail.com)
 - [GitHub](https://github.com/Kondrlias)
 - [Telegram](https://t.me/lia_kondr)
+- [CodeWars](https://www.codewars.com/users/Kondrlias/)
 
 ### About me
 
@@ -33,6 +34,6 @@ I am actively studying frontend development and am working to improve my skills 
 - Belarussian Pedagogical University named M.Tank, Institute of Psychology, external student, 2023-2028
 - Minsk state medical college, Specialty: General medicine 2014-2017
 
-  ### Language
+### Language
 
 - Russian - native, English - A2
