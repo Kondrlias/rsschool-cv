@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kondrlias.github.io/rsschool-cv/cv
