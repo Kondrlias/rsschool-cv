@@ -126,3 +126,49 @@ body {
 .nav-img {
 	margin-right: 0.8rem;
 }
+/* ABOUT */
+.about {
+	margin-top: 3.2rem;
+}
+
+.section-title {
+	display: flex;
+	justify-content: flex-start;
+	gap: 1.6rem;
+}
+
+/* SKILLS */
+.skill-title {
+	font-size: 1.6rem;
+	font-weight: 600;
+	margin-bottom: 0.8rem;
+}
+
+.skill-item {
+	border-radius: 15px;
+	font-size: 1rem;
+	margin: 0.4rem 0.4rem 0.8rem 0;
+	padding: 4px 8px;
+	background-color: #eee;
+}
+
+
+/* EDU */
+.grid-2col-edu {
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+}
+
+/* FOOTER */
+.footer {
+	background-color: var(--primary-color);
+}
+.footer-text {display: flex;
+	align-items:center;
+	justify-content: center;
+	gap: 0.3rem;
+}
+.rs-logo {
+	height: 30px;
+	width: auto;
+}
